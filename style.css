@@ -145,6 +145,11 @@ p{
 	margin: auto;
 
 }
+.matches{
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
 .val-prop2{
 	display: inline-block;
 	display: grid;
