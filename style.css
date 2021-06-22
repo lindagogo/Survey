@@ -78,9 +78,15 @@ p{
 	padding-bottom: 10px;
 
 	 /* i need to add the bariol font here*/
-
 	
 }
+.survey-prop{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 30px;
+
+}
+
 .title-val-prop{
 	text-align: center;
 	margin: 0 5%;
@@ -91,7 +97,10 @@ p{
 	text-align: center;
 	color: #fff;
 	padding-bottom: 10px;
-	padding-top: 50px;
+	padding-top: 50px;	
+	font-family:'Bariol Bold';
+	font-size: 65px;
+
 }
 
 
@@ -123,6 +132,17 @@ p{
 	display: inline-block;
 	display: grid;
 	grid-template-columns: 1fr 1fr;
+}
+.kismet-title1{
+	text-align: left;
+	color:#6B007C; 
+	padding-top: 50px;
+	padding-bottom: 10px;
+	font-family:'Bariol Bold';
+	font-size: 65px;
+	line-height: 1em;
+	 /* i need to add the bariol font here*/
+	
 }
 .val-prop-title{
 	color: #6B007C;
@@ -182,6 +202,8 @@ input[type="checkbox"]{
 }
 .question {
 	padding-bottom: 50px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
 
 }
 hr  
